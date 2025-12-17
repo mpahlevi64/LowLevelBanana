@@ -53,9 +53,9 @@ We have released the evaluation datasets and corresponding inferred results of N
 If you find this work helpful for your research, please consider citing:
 
 ```bibtex
-@techreport{zuo2024nanobanana,
+@techreport{zuo2025nanobanana,
   title={Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets},
   author={Zuo, Jialong and Deng, Haoyou and Zhou, Hanyu and Zhu, Jiaxin and Zhang, Yicheng and Zhang, Yiwei and Yan, Yongxin and Huang, Kaixing and Chen, Weisen and Deng, Yongtai and Jin, Rui and Sang, Nong and Gao, Changxin},
   institution={Huazhong University of Science and Technology},
-  year={2024}
+  year={2025}
 }
