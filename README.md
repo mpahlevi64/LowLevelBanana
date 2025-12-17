@@ -6,7 +6,7 @@
 
 **Jialong Zuo, Haoyou Deng, Hanyu Zhou, Jiaxin Zhu, Yicheng Zhang, Yiwei Zhang, Yongxin Yan, Kaixing Huang, Weisen Chen, Yongtai Deng, Rui Jin, Nong Sang, Changxin Gao**
 
-*National Key Laboratory of Multispectral Information Intelligent Processing Technology, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST)*
+*School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST)*
 
 <a href="https://lowlevelbanana.github.io/"><img src="https://img.shields.io/badge/Project-Page-green"></a>
 <a href="https://huggingface.co/datasets/jlongzuo/LowLevelEval"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue"></a>
@@ -16,7 +16,7 @@
 
 ## 📢 Introduction
 
-This repository hosts the official resources for the technical report: **"Is Nano Banana Pro a Low-Level Vision All-Rounder?"**.
+This repository hosts the official resources for the technical report: **["Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets."](https://lowlevelbanana.github.io/assets_common/papers/LowLevelBananaEval_Report.pdf)**.
 
 While commercial T2I models like **Nano Banana Pro** excel in creative synthesis, their potential as generalist solvers for traditional low-level vision challenges remains largely underexplored. In this study, we investigate the critical question: **Is Nano Banana Pro a Low-Level Vision All-Rounder?** We conducted a comprehensive **zero-shot evaluation** across **14 distinct low-level tasks** spanning **40 diverse datasets**.
 
@@ -35,29 +35,15 @@ While commercial T2I models like **Nano Banana Pro** excel in creative synthesis
     - ✅ **Superior Subjective Quality:** Often hallucinates plausible high-frequency details that surpass specialist models.
     - ❌ **Lower Reference-Based Metrics:** Lags behind in PSNR/SSIM due to the inherent stochasticity of generative models.
 
-## 📋 Tasks Covered
 
-Our evaluation covers three major categories of low-level vision tasks:
-
-| **Image Restoration** | **Image Enhancement** | **Image Fusion** |
-|:---:|:---:|:---:|
-| Dehazing | Low-Light Enhancement | Infrared-Visible Fusion |
-| Deraining | Underwater Enhancement | Medical Image Fusion |
-| Deblurring | Retouching | Multi-Exposure Fusion |
-| Denoising | Color Enhancement | Focus Stacking |
-| Super-Resolution | ... | ... |
-
-## 📂 Dataset
-
-We have released the evaluation dataset used in our study on HuggingFace to facilitate future research.
-
-[**Download the LowLevelEval Dataset on HuggingFace**](https://huggingface.co/datasets/jlongzuo/LowLevelEval)
-
-## 📊 Results Summary
-
+## 📊 Evaluation Results
 *Detailed quantitative and qualitative comparisons can be found in our project page and full report.*
 
 Our extensive analysis identifies Nano Banana Pro as a capable **zero-shot contender** for low-level vision tasks. While it struggles to maintain the strict pixel-level consistency required by conventional metrics (PSNR/SSIM), it offers superior visual quality, suggesting a need for new perception-aligned evaluation paradigms.
+
+We have released the evaluation datasets and corresponding inferred results of Nano Banana Pro used in our study on HuggingFace to facilitate future research.
+
+[**Download the Inferred Results on HuggingFace**](https://huggingface.co/datasets/jlongzuo/LowLevelEval)
 
 ## 🔗 Citation
 
