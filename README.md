@@ -16,7 +16,7 @@
 
 ## 📢 Introduction
 
-This repository hosts the official resources for the technical report: **["Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets."](https://lowlevelbanana.github.io/assets_common/papers/LowLevelBananaEval_Report.pdf)**.
+This repository hosts the official resources for the technical report: **["Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets."](https://arxiv.org/abs/2512.15110)**.
 
 While commercial T2I models like **Nano Banana Pro** excel in creative synthesis, their potential as generalist solvers for traditional low-level vision challenges remains largely underexplored. In this study, we investigate the critical question: **Is Nano Banana Pro a Low-Level Vision All-Rounder?** We conducted a comprehensive **zero-shot evaluation** across **14 distinct low-level tasks** spanning **40 diverse datasets**.
 
