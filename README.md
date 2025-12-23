@@ -40,7 +40,7 @@ While commercial T2I models like **Nano Banana Pro** excel in creative synthesis
 
 Our extensive analysis identifies Nano Banana Pro as a capable **zero-shot contender** for low-level vision tasks. While it struggles to maintain the strict pixel-level consistency required by conventional metrics (PSNR/SSIM), it offers superior visual quality, suggesting a need for new perception-aligned evaluation paradigms.
 
-We have released the evaluation datasets and corresponding inferred results of Nano Banana Pro used in our study on HuggingFace to facilitate future research.
+We have released the evaluation datasets and corresponding inference results of Nano Banana Pro used in our study on HuggingFace to facilitate future research.
 
 [**Download the Inference Results on HuggingFace**](https://huggingface.co/datasets/jlongzuo/LowLevelEval)
 
